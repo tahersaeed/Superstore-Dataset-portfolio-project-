@@ -10,7 +10,7 @@ Portfolio project to convert Company's Excel sheet into a Relational Database us
 3. Import Data From an EXCEL sheet
 ---
 
-### Create an Entity-Relationship Model (ERM) diagram
+### Create an Entity-Relationship Model (ERM) diagram using draw.io
 
 Apply Normalization to the Conceptual design.
 
