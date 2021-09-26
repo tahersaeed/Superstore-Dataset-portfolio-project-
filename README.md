@@ -1,5 +1,8 @@
 # Superstore-Dataset-portfolio-project
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0fcb8ba12e2dadb51235669e237423b9ab4d22d6
 Portfolio project to convert Company's Excel sheet into a Relational Database using MySQL 
 
 ---
